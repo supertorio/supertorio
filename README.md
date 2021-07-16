@@ -2,13 +2,14 @@
 
 Hi, I'm Tori. I'm a developer, originally from the US, but happy to call the Netherlands my home now.
 
-
+I also make games as [SupertorioGames](https://twitter.com/supertoriogames/)
 
 [![Twitter Badge](https://img.shields.io/badge/-supertorio-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/supertorio/)](https://twitter.com/supertorio/)
 [![Instagram Badge](https://img.shields.io/badge/-supertorio-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/supertorio/)](https://instagram.com/supertorio)
 [![Linkedin Badge](https://img.shields.io/badge/-supertorio-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/supertorio/)](https://www.linkedin.com/in/supertorio/)
 [![Blog Badge](https://img.shields.io/badge/-BLOG-orange?style=for-the-badge&logo=Squarespace&logoColor=white&link=https://www.supertor.io/)](https://www.supertor.io/)
-![Twitch Status](https://img.shields.io/twitch/status/supertorio?label=Supertorio&style=social)
+
+Gamedev Streaming - ![Twitch Status](https://img.shields.io/twitch/status/supertorio?label=Supertorio&style=social)
 
 
 - 🔭  Daily:
