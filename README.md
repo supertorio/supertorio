@@ -23,7 +23,8 @@ Gamedev Streaming - ![Twitch Status](https://img.shields.io/twitch/status/supert
 
 ## Medium Posts
 <!-- BLOG-POST-LIST:START -->
- 
+- [Five Things I Miss from Building Web Sites in the 90s](https://supertorio.medium.com/five-things-i-miss-from-building-web-sites-in-the-90s-beb157a94305?source=rss-a7d41cb591b4------2)
+- [Polling with Redux Sagas](https://supertorio.medium.com/polling-with-redux-sagas-da79c4aea968?source=rss-a7d41cb591b4------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Github Stats
