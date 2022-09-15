@@ -8,8 +8,7 @@ I also make games as [SupertorioGames](https://twitter.com/supertoriogames/)
 [![Instagram Badge](https://img.shields.io/badge/-supertorio-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/supertorio/)](https://instagram.com/supertorio)
 [![Linkedin Badge](https://img.shields.io/badge/-supertorio-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/supertorio/)](https://www.linkedin.com/in/supertorio/)
 [![Blog Badge](https://img.shields.io/badge/-BLOG-orange?style=for-the-badge&logo=Squarespace&logoColor=white&link=https://www.supertor.io/)](https://www.supertor.io/)
-
-Gamedev Streaming [![Twitch Badge](https://img.shields.io/badge/-supertorio-6441A4?style=for-the-badge&logo=Twitch&logoColor=white&link=https://twitch.tv/supertorio/)](https://www.twitch.tv/supertorio)
+[![Twitch Badge](https://img.shields.io/badge/-supertorio-6441A4?style=for-the-badge&logo=Twitch&logoColor=white&link=https://twitch.tv/supertorio/)](https://www.twitch.tv/supertorio)
 
 
 - 🔭  Daily:
