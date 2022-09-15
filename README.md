@@ -23,6 +23,7 @@ Gamedev Streaming [![Twitch Badge](https://img.shields.io/badge/-supertorio-6441
 
 ## Medium Posts
 <!-- BLOG-POST-LIST:START -->
+- [Unity Quick-tip: Billboarding with Cinemachine](https://supertorio.medium.com/unity-quick-tip-billboarding-with-cinemachine-22af332d333?source=rss-a7d41cb591b4------2)
 - [Five Things I Miss from Building Web Sites in the 90s](https://supertorio.medium.com/five-things-i-miss-from-building-web-sites-in-the-90s-beb157a94305?source=rss-a7d41cb591b4------2)
 - [Polling with Redux Sagas](https://supertorio.medium.com/polling-with-redux-sagas-da79c4aea968?source=rss-a7d41cb591b4------2)
 <!-- BLOG-POST-LIST:END -->
