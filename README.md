@@ -14,9 +14,11 @@ Gamedev Streaming [![Twitch Badge](https://img.shields.io/badge/-supertorio-6441
 
 - 🔭  Daily:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+  ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
   ![React](https://img.shields.io/badge/-React-3b2e5a?style=flat-square&logo=react)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+- 🕹️  Hobby ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white)
 - 📫  How to reach me: Twitter, LinkedIn or through my blog.
 - 😘  Pronouns: she / her
 - ⚡  Fun fact: I'm from the same town as Wayne and Garth 🤘
