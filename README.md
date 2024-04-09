@@ -1,13 +1,11 @@
 [![Header](https://raw.githubusercontent.com/supertorio/supertorio/master/assets/readme_header.png "Header")](https://supertorio.dev/)
 
-Hi, I'm Tori. I'm a developer, originally from the US, but happy to call the Netherlands my home now.
+Hi, I'm Tori. I'm a artist/developer, originally from the US, but happy to call the Netherlands my home now. Professionally, I'm a tech artist at Mythica, and I'm also an indie developer at [Supertorio Games](https://www.supertor.dev/). My wife and I make travel vlogs over on [Castles and Canals](https://www.youtube.com/@castlesandcanals)
 
-I also make games as [SupertorioGames](https://twitter.com/supertoriogames/)
-
-[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.net/@supertorio)
+[![Threads](https://img.shields.io/badge/supertorio-000000?style=for-the-badge&logo=Threads&logoColor=white&link=https://www.threads.net/@supertorio)](https://www.threads.net/@supertorio)
 [![Instagram Badge](https://img.shields.io/badge/-supertorio-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/supertorio/)](https://www.instagram.com/supertorio/)
 [![Linkedin Badge](https://img.shields.io/badge/-supertorio-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/supertorio/)](https://www.linkedin.com/in/supertorio/)
-[![Blog Badge](https://img.shields.io/badge/-BLOG-orange?style=for-the-badge&logo=Squarespace&logoColor=white&link=https://www.supertor.dev/)](https://www.supertor.dev/)
+[![Blog Badge](https://img.shields.io/badge/-BLOG-orange?style=for-the-badge&logo=ghost&logoColor=%23F7DF1E&link=https://www.supertor.dev/)](https://www.supertor.dev/)
 [![Twitch Badge](https://img.shields.io/badge/-supertorio-6441A4?style=for-the-badge&logo=Twitch&logoColor=white&link=https://twitch.tv/supertorio/)](https://www.twitch.tv/supertorio)
 
 
